@@ -2,8 +2,6 @@
 
 """blind-ip.py: Blind sensitive IP addresses"""
 
-#Usage is ./pcap-rewrite.py <input pcap file> <blinding template> <outputfile>
-
 __author__ = "Brent Shaw"
 __copyright__ = "Copyright 2018"
 __credits__ = ["Brent Shaw"]
